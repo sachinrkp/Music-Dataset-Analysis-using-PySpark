@@ -1,8 +1,8 @@
 # Music-Dataset-Analysis-using-PySpark
-###Overview
+### Overview
 This project demonstrates how to perform distributed data processing using PySpark on Google Colab. It covers various tasks including mounting Google Drive, importing large datasets into PySpark dataframes, applying queries to extract useful information, joining dataframes, and visualizing query results using matplotlib.
 
-###Getting Started
+### Getting Started
 To run the code provided in this project, follow these steps:
 
 Set up Google Colab: Ensure you have a Google account and access to Google Colab. Google Colab provides a free Jupyter notebook environment that allows you to run Python code in the cloud.
